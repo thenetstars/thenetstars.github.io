@@ -1,2 +1,2 @@
-# thenetstars.github.io
+# data.netstars.xyz
 The Netstars Data
