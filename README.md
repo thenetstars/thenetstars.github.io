@@ -1,2 +1,1 @@
-# data.netstars.xyz
-The Netstars Data
+The Netstars HTML
